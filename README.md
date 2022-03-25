@@ -1,7 +1,5 @@
-### Hi there 👋
-- 🔭 I’m currently working on SpigotFluentAPI to help spigot developers deliver plugins more efficent
-- 🌱 I’m currently learning: React
-- ⚡ Fun fact: There will be more stuff here in future 
+### Hi 
+⚡ I’m currently working on SpigotFluentAPI to help spigot developers deliver plugins more efficent ⚡
 <!--
 **jwdeveloper/jwdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
