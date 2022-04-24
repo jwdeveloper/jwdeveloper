@@ -1,5 +1,5 @@
 ###
-⚡ I’m currently working on SpigotFluentAPI to help spigot developers deliver plugins more efficent ⚡
+⚡ I’m currently working on SpigotFluentAPI to help spigot developers deliver code faster ⚡
 <!--
 **jwdeveloper/jwdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
