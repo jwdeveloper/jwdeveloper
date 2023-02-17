@@ -1,5 +1,5 @@
 ###
-⚡ I’m currently working on SpigotFluentAPI to help spigot developers deliver code faster ⚡
+Mostly working as .net developer however since game programming have always been my passions there are plenty of solution I've made for Minecraft server.
 <!--
 **jwdeveloper/jwdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
